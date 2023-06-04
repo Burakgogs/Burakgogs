@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Burak GÖĞÜŞ</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakgogs&label=Profile%20views&color=0e75b6&style=flat" alt="burakgogs" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/burakgogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakgogs" height="30" width="40" /></a>
